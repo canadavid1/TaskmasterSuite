@@ -1,0 +1,5 @@
+Jonas:		1
+Svein Olav:	2
+Andrea:		3
+Pernille:	4
+Hallvard:	5

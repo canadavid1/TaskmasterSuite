@@ -1,0 +1,6 @@
+Pernille:	264m	1
+Hallvard:	463m	2
+Svein Olav:	1549m	3
+Andrea:		1565m	4
+Jonas:		2615m	5
+
